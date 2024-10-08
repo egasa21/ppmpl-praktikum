@@ -1,0 +1,20 @@
+{
+  "name": "praktikum-2",
+  "version": "1.0.0",
+  "description": "integration testing",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2"
+  }
+}
